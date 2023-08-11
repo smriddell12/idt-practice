@@ -1,0 +1,217 @@
+1.1.1,Crop Production
+1.1.2,Animal Production
+1.1.3,Forestry and Logging
+1.1.4,"Fishing, Hunting and Trapping"
+1.2.1,Animal Food Manufacturing
+1.2.10,"Snacks, Condiments, Spices, Seasoning and Other Food Manufacturing"
+1.2.11,Beverage and Ice Manufacturing
+1.2.12,Tobacco Product Manufacturing
+1.2.2,Grain and Oilseed Milling
+1.2.3,Sugar and Confectionary Product Manufacturing
+1.2.4,"Fruit/Vegetable Preserving, Specialty Food Manufacturing Facility"
+1.2.5,Dairy Product Manufacturing (Except Frozen)
+1.2.6,Ice Cream and Frozen Dessert Manufacturing
+1.2.7,Animal Slaughtering and Processing Facility
+1.2.8,Seafood Product Preparation and Packaging
+1.2.9,Bakery and Tortilla Manufacturing
+1.3.1,Domestic Bulk Food Storage and Distribution Warehouse
+1.3.2,Domestic Processed Food Storage and Distribution Warehouse
+1.3.3,Imported Bulk Food Storage and Distribution Warehouse
+1.3.4,Imported Processed Food Storage and Distribution Warehouse
+1.4.1,"Road Transport of Domestic and Imported Agricultural Products, Food Products, and Animals"
+1.4.2,"Rail Transport of Domestic and Imported Agricultural Products, Food Products, and Animals"
+1.4.3,"Maritime Transport of Domestic and Imported Agricultural Products, Food Products, and Animals"
+1.4.4,"Air Transport of Domestic and Imported Agricultural Products, Food Products, and Animals"
+1.5.1,Farm Product Wholesaler
+1.5.2,Grocery and Related Product Wholesaler
+1.5.3,Food and Beverage Store
+1.5.4,General Merchandise Store
+1.5.5,Non-Store Retailer
+1.5.6,Food Services and Drinking Place
+1.6.1,Agricultural Chemical Manufacturing
+1.6.2,Veterinary Pharmaceutical Manufacturing
+1.6.3,Farm Supply Wholesaler
+1.6.4,Farm Supply Retailer
+1.6.5,Veterinary Service
+1.6.6,Agricultural Testing Laboratory
+1.6.7,Agricultural and Food Research
+1.6.8,Farm Production Support Facility
+1.7.1,Federal Agriculture and Food Agency
+1.7.2,"State, Local, Regional Agriculture and Food Agency"
+1.7.3,Agriculture and Food Industry Organization
+1.7.4,International Agriculture and Food Organization
+2.1.1,Federal Reserve System
+2.1.2,Depository Credit Institution
+2.1.3,Non-Depository Credit Institution
+2.1.4,Banking or Credit Supporting Facility
+2.1.5,"Banking and Credit Regulatory, Oversight, or Industry Organization"
+2.2.1,Securities and Commodities Broker
+2.2.2,Securities and Commodities Exchange
+2.2.3,Other Financial Investment Facility
+2.2.4,"Securities, Commodities, or Financial Investment Supporting Facility"
+2.2.5,"Securities, Commodities, Financial Investment Regulatory, Oversight, or Industry Organization"
+2.3.1,Direct Insurance Company
+2.3.2,Reinsurance Company
+2.3.3,Insurance Producer
+2.3.4,Insurance Support Organization
+2.3.5,"Insurance Regulatory, Oversight, or Industry Organization"
+3.1.1,Basic Chemical Production
+3.1.2,Specialty Chemical Production
+3.1.3,Agricultural Chemical Production
+3.1.4,Pharmaceutical Production
+3.1.5,Consumer Product
+3.1.6,Potential Chemical Weapon Agent and Precursor
+3.2.1,Pipeline
+3.2.2,Marine Transport
+3.2.3,Rail Transport
+3.2.4,Road Transport
+3.2.5,Air Transport
+3.3.1,Warehousing and Storage
+3.3.2,Storage at Manufacturing Facility
+3.3.3,Storage at Non-Manufacturing Facility
+3.4.1,Federal Chemicals Oversight Agency
+3.4.2,"State, Local, Regional Chemicals Oversight Agency"
+3.4.3,Chemical Industry Organization or Trade Association
+3.4.4,International Chemical Organization
+4.1.1,Surface Shipbuilding and Maintenance
+4.1.2,Subsurface Shipbuilding and Maintenance
+4.1.3,Unmanned Vessel Construction and Maintenance
+4.10.1,Avionics Manufacturing
+4.10.2,"Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) Systems Manufacturing"
+4.10.3,Electronics Manufacturing
+4.10.4,Sensor Manufacturing
+4.11.1,Auxiliary Power Unit Manufacturing
+4.11.2,Battery Manufacturing
+4.11.3,Electric Motor Manufacturing
+4.11.4,Electric Generator Manufacturing
+4.11.5,Power Source Manufacturing
+4.12.1,Circuit Board Manufacturing
+4.12.2,Global Positioning System (GPS) Receiver Manufacturing
+4.12.3,Guidance/Control Equipment Manufacturing
+4.12.4,Microwave Device Manufacturing
+4.12.5,Optics Manufacturing
+4.12.6,Semiconductor Manufacturing
+4.13.1,Aircraft Transmission Manufacturing
+4.13.10,Turbine Engine Manufacturing
+4.13.2,Automotive Transmission Manufacturing
+4.13.3,Bearings Manufacturing
+4.13.4,Diesel Engine Manufacturing
+4.13.5,Hydraulic Equipment Manufacturing
+4.13.6,Landing Gear Manufacturing
+4.13.7,Nuclear Components Manufacturing
+4.13.8,Pump and Compressor Manufacturing
+4.13.9,Rocket Engine Manufacturing
+4.14.1,Casting Manufacturing
+4.14.2,Ceramic Armor Manufacturing
+4.14.3,Composite Manufacturing
+4.14.4,Depleted Uranium Armor Manufacturing
+4.14.5,Forging Manufacturing
+4.14.6,Precious Metal Product Manufacturing
+4.15.1,Shipbuilding
+4.15.10,Electronics Industry
+4.15.11,Electrical Industry Commodity
+4.15.12,Mechanical Industry Commodity
+4.15.13,Structural Industry Commodity
+4.15.2,Aircraft
+4.15.3,Missile
+4.15.4,Space
+4.15.5,Combat Vehicle Industry
+4.15.6,Ammunition Industry
+4.15.7,Weapon Industry
+4.15.8,Troop Support Industry
+4.15.9,Information Technology Industry
+4.2.1,Fixed Wing Aircraft Manufacturing and Maintenance
+4.2.2,Helicopter Manufacturing and Maintenance
+4.2.3,Unmanned Aerial Vehicle Manufacturing and Maintenance
+4.3.1,Air/Air Missile Manufacturing and Maintenance
+4.3.2,Air/Surface Missile Manufacturing and Maintenance
+4.3.3,Surface/Air Missile Manufacturing and Maintenance
+4.3.4,Surface/Surface Missile Manufacturing and Maintenance
+4.3.5,Missile Defense System Manufacturing and Maintenance
+4.3.6,Precision Guided Munitions Manufacturing and Maintenance
+4.4.1,Launch Vehicle Manufacturing and Maintenance
+4.4.2,Satellite Manufacturing
+4.5.1,Combat Vehicle Manufacturing and Maintenance
+4.5.2,Tactical Vehicle Manufacturing and Maintenance
+4.5.3,Unmanned Vehicle Manufacturing and Maintenance
+4.6.1,Artillery Caliber Munitions Manufacturing
+4.6.10,Propellant and Explosives Manufacturing
+4.6.11,Propelling Charge Manufacturing
+4.6.12,Pyrotechnics Manufacturing
+4.6.13,Rocket and Warhead Manufacturing
+4.6.14,Small Caliber Munitions Manufacturing
+4.6.15,Tank Ammunition Manufacturing
+4.6.2,Bomb Manufacturing
+4.6.3,Cannon Caliber Munitions Manufacturing
+4.6.4,"Demolition, Grenade, and Mine Manufacturing"
+4.6.5,Dispenser Munitions Manufacturing
+4.6.6,Family of Scatterable Mine Manufacturing
+4.6.7,Fuse Manufacturing
+4.6.8,Mortar Manufacturing
+4.6.9,Navy Gun Munitions Manufacturing
+4.7.1,Cannon Manufacturing and Maintenance
+4.7.2,Man-Portable Weapons Manufacturing and Maintenance
+4.7.3,Mounted Weapons Manufacturing and Maintenance
+4.7.4,Laser Weapons Manufacturing and Maintenance
+4.7.5,Nuclear Weapons Manufacturing and Maintenance
+4.7.6,Chemical Weapons Manufacturing and Maintenance
+4.8.1,Chemical Biological Defense System Manufacturing
+4.8.2,Clothing and Textile Manufacturing
+4.8.3,Soldier System Manufacturing
+4.8.4,Subsistence and Medical Equipment Manufacturing
+4.9.1,Hardware Manufacturing and Maintenance
+4.9.2,Network Development and Maintenance
+4.9.3,Security
+4.9.4,Software Production
+4.9.5,Trainer and Simulator
+5.1.1,Electricity Generation
+5.1.2,Electricity Transmission
+5.1.3,Electricity Distribution
+5.1.4,Electricity Market
+5.1.5,Electric Vehicle Charging Station
+5.1.6,Other Electricity Facility
+5.2.1,Crude Oil Supply
+5.2.2,Crude Oil Storage
+5.2.3,Crude Oil Transport
+5.2.4,Petroleum Processing
+5.2.5,Petroleum Product Storage
+5.2.6,Petroleum Product Transport
+5.2.7,Petroleum Supporting Facility
+5.3.1,Natural Gas Supply
+5.3.2,Natural Gas Processing
+5.3.3,Liquefied Natural Gas (LNG) Plant
+5.3.4,Natural Gas Storage
+5.3.5,Natural Gas Transport
+5.3.6,Natural Gas Distribution
+5.3.7,Natural Gas Supporting Facility
+5.3.8,Other Natural Gas Facility
+5.4.1,Coal Supply
+5.4.2,Coal Processing
+5.4.3,Coal Transport
+5.4.4,Coal Supporting Facility
+5.4.5,Other Coal Facility
+5.5.1,Ethanol Feed Material Supply
+5.5.2,Ethanol Production Facility
+5.5.3,Ethanol Storage Facility
+5.5.4,Ethanol Transport
+5.5.5,Ethanol Blending Facility
+5.5.6,Ethanol Distribution Facility
+5.5.7,Ethanol Market
+5.5.8,Other Ethanol Supporting Facility
+5.6.1,Biodiesel Feed Material Supply
+5.6.2,Biodiesel Production Facility
+5.6.3,Biodiesel Storage Facility
+5.6.4,Biodiesel Transport Facility
+5.6.5,Biodiesel Distribution Facility
+5.6.6,Other Biodiesel Supporting Facility
+5.7.1,Hydrogen Source Material Supply
+5.7.2,Hydrogen Production Facility
+5.7.3,Hydrogen Storage Facility
+5.7.4,Hydrogen Transport Facility
+5.7.5,Hydrogen Distribution Facility
+5.7.6,Other Hydrogen Supporting Facility
+5.8.1,District Energy System
+5.9.1,Federal Energy Agency
+5.9.2,"State, Local, Regional Energy Agency"
+5.9.3,Energy Industry Organization
+5.9.4,International Energy Organization
