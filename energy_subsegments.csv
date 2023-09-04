@@ -1,0 +1,74 @@
+﻿IDT v4 Path,Sub-Segment
+5.1.1.1,Hydroelectric Power Generation
+5.1.1.2,Renewable Energy Generation
+5.1.1.3,Fossil Fuel Electric Power Generation
+5.1.1.4,Nuclear Electric Power Generation
+5.1.1.5,Other Electric Power Generation
+5.1.2.1,Transmission Line
+5.1.2.2,Transmission Substation
+5.1.2.3,Direct Current (DC) Converter Station
+5.1.2.4,Generation Dispatch and Transmission Control Center
+5.1.3.1,Distribution Line
+5.1.3.2,Distribution Substation
+5.1.3.3,Distribution Control and Dispatch Center
+5.1.4.1,Generation Market
+5.1.4.2,Transmission Market
+5.1.5.1,Electric Vehicle Rapid-charging Station
+5.1.5.2,Electric Vehicle Standard-charging Station
+5.2.1.1,Drilling Rig
+5.2.1.2,On-Shore Well
+5.2.1.3,Off-Shore Well
+5.2.1.4,Crude Oil Production from Other Sources
+5.2.1.5,Gas-Oil Separation Plant
+5.2.1.6,Oil Shale Production 
+5.2.2.1,Strategic Petroleum Reserve
+5.2.2.2,Crude Oil Bulk Storage
+5.2.3.1,Crude Oil Pipeline
+5.2.3.2,Crude Oil Marine Transport
+5.2.4.1,Petroleum Refinery
+5.2.5.1,Petroleum Product Bulk Storage
+5.2.5.2,Underground Petroleum Gas Storage
+5.2.5.3,Petroleum Product Storage for Retail Distribution
+5.2.5.4,End-User Petroleum Product Storage
+5.2.6.1,Petroleum Product Pipeline
+5.2.6.2,Petroleum Product Marine Transport
+5.2.6.3,Petroleum Product Rail Transport
+5.2.6.4,Petroleum Product Road Transport
+5.2.7.1,Crude Oil Market
+5.2.7.2,Petroleum Product Market
+5.3.1.1,Drilling Rig 
+5.3.1.2,On-Shore Well
+5.3.1.3,Off-Shore Well
+5.3.1.4,Unconventional Gas Extraction Facility
+5.3.1.5,Natural Gas Production from Other Sources
+5.3.2.1,Natural Gas Processing Plant
+5.3.3.1,Liquefied Natural Gas (LNG) Liquefaction Plant
+5.3.3.2,Liquefied Natural Gas (LNG) Satellite Storage and Regasification Plant
+5.3.4.1,Underground Storage Facility
+5.3.4.2,Above Ground Storage Facility
+5.3.4.3,Propane Peak Shaving Facility
+5.3.5.1,Natural Gas Transmission Pipeline
+5.3.5.2,Liquefied Natural Gas (LNG) Transport
+5.3.6.1,City Gate Station
+5.3.6.2,Natural Gas Distribution Pipeline Network
+5.3.6.3,Natural Gas Distribution Control and Dispatch Center
+5.3.6.4,Compressed Natural Gas (CNG) Plant
+5.3.7.1,Natural Gas Market
+5.4.1.1,Underground Mine
+5.4.1.2,Surface Mine
+5.4.2.1,Coal Preparation Plant (Coal Cleaning Plant)
+5.4.2.2,Coal Gasification Plant
+5.4.2.3,Coal Liquefaction Plant
+5.4.3.1,Coal Rail Transport
+5.4.3.2,Coal Water Transport
+5.4.4.1,Coal Market
+5.5.4.1,Ethanol Unit Train Route
+5.5.4.2,Ethanol Non-Unit Train 
+5.5.4.3,Ethanol Rail Car 
+5.5.6.1,E-85 Fueling Station
+5.6.5.1,Biodiesel Fueling Station
+5.7.5.1,Hydrogen Fueling Station
+5.8.1.1,District Heating
+5.8.1.2,District Cooling
+5.8.1.3,District Power
+5.8.1.4,Combined Heat and Power
