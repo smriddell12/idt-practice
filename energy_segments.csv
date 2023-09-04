@@ -1,0 +1,52 @@
+﻿IDT v4 Path,Segment
+5.1.1,Electricity Generation
+5.1.2,Electricity Transmission
+5.1.3,Electricity Distribution
+5.1.4,Electricity Market
+5.1.5,Electric Vehicle Charging Station
+5.1.6,Other Electricity Facility
+5.2.1,Crude Oil Supply 
+5.2.2,Crude Oil Storage
+5.2.3,Crude Oil Transport
+5.2.4,Petroleum Processing
+5.2.5,Petroleum Product Storage
+5.2.6,Petroleum Product Transport
+5.2.7,Petroleum Supporting Facility
+5.3.1,Natural Gas Supply
+5.3.2,Natural Gas Processing
+5.3.3,Liquefied Natural Gas (LNG) Plant
+5.3.4,Natural Gas Storage
+5.3.5,Natural Gas Transport
+5.3.6,Natural Gas Distribution
+5.3.7,Natural Gas Supporting Facility
+5.3.8,Other Natural Gas Facility
+5.4.1,Coal Supply
+5.4.2,Coal Processing
+5.4.3,Coal Transport
+5.4.4,Coal Supporting Facility
+5.4.5,Other Coal Facility
+5.5.1,Ethanol Feed Material Supply
+5.5.2,Ethanol Production Facility
+5.5.3,Ethanol Storage Facility
+5.5.4,Ethanol Transport
+5.5.5,Ethanol Blending Facility
+5.5.6,Ethanol Distribution Facility
+5.5.7,Ethanol Market
+5.5.8,Other Ethanol Supporting Facility
+5.6.1,Biodiesel Feed Material Supply
+5.6.2,Biodiesel Production Facility
+5.6.3,Biodiesel Storage Facility
+5.6.4,Biodiesel Transport Facility
+5.6.5,Biodiesel Distribution Facility
+5.6.6,Other Biodiesel Supporting Facility
+5.7.1,Hydrogen Source Material Supply
+5.7.2,Hydrogen Production Facility
+5.7.3,Hydrogen Storage Facility
+5.7.4,Hydrogen Transport Facility
+5.7.5,Hydrogen Distribution Facility
+5.7.6,Other Hydrogen Supporting Facility
+5.8.1,District Energy System
+5.9.1,Federal Energy Agency
+5.9.2,"State, Local, Regional Energy Agency"
+5.9.3,Energy Industry Organization
+5.9.4,International Energy Organization
